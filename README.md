@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hi, I'm Amanda Gómez  
+# 👩🏻‍💻 Hi, I'm Amanda Gomez  
 
 🎓 Economics student at [Pontificia Universidad Católica del Perú (PUCP)](https://www.pucp.edu.pe/)  
 📊 Passionate about applied research, data analysis, and public policy  
