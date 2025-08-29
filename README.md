@@ -35,7 +35,7 @@ Mendeley · LaTeX
 
 ## 📫 Contact  
 Email: **amanda.gomez@pucp.edu.pe**  
-LinkedIn: [Amanda Gómez]([https://www.linkedin.com/in/amanda-gomez-508798327/](https://www.linkedin.com/in/amanda-gomez-flores))  
+LinkedIn: [Amanda Gomez](https://www.linkedin.com/in/amanda-gomez-flores)  
 
 ---
 
