@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amanda Gomez  
 
-🎓 [Economics student](https://www.pucp.edu.pe/carreras/pregrado/economia) at [Pontificia Universidad Católica del Perú (PUCP)](https://www.pucp.edu.pe/), top 10% of my class.  
+🎓 [Economics student](https://www.pucp.edu.pe/carreras/pregrado/economia) at [Pontificia Universidad Católica del Perú (PUCP)](https://www.pucp.edu.pe/).  
 📊 Research and consulting experience in applied economics, public policy, and sustainability.  
 💻 Skilled in data analysis, econometrics, and technical writing for evidence-based decision making.  
 
